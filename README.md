@@ -15,7 +15,7 @@
 🔭 I'm currently working on my coding basics. 
 🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
 💬 You can always ask me about Neovim and Java.                              
-⚡ Fun fact: I started coding with 12 and I'm German.
+⚡ Fun fact: I started coding when I was 12 and I'm half German half Korean.
 <h3 align="left">Tools & Languages:</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
