@@ -11,11 +11,11 @@
   /></a>
 </p>
 <h1 align="center">Hello 👋, I'm Airi V.</h1>
-<h3 align="center">A highschool student.</h3>
+<h3 align="center">A university student.</h3>
 🔭 I'm currently working on my coding basics. 
 🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
 💬 You can always ask me about Neovim and Java.                              
-⚡ Fun fact: I'm German.
+⚡ Fun fact: I started coding with 12 and I'm German.
 <h3 align="left">Tools & Languages:</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
