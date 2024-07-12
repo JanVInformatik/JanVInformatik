@@ -48,9 +48,9 @@
 </p>
 
 <h3 align="center">Hardware, Software, Tools that I use:</h3>
-<p>
-    **Vim - a lightweight and awesome code editor (CLI).
+
+    __Vim - a lightweight and awesome code editor (CLI).
     MacOS Sonoma - Apple's OS.
     MacBook Pro 2018 15" 32GB 512GB I7 8850h 560x.
-    MacBook Pro 2021 16" 32GB 512GB M1 Pro.**
-</p>
+    MacBook Pro 2021 16" 32GB 512GB M1 Pro.__
+
