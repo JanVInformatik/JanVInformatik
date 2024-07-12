@@ -10,12 +10,20 @@
       width="400"
   /></a>
 </p>
-<h1 align="center">Hi, I'm Airi V.</h1>
+<h1 align="center">Hi, I'm Airi.</h1>
 <h3 align="center">A university student.</h3>
-🔭 I'm currently working on my coding basics. 
-🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
-💬 You can always ask me about Neovim and Java.                              
-⚡ Fun fact: I started coding when I was 12 and I'm half German half Korean.
+<p>
+  🔭 I'm currently working on my coding basics. 
+</p>
+<p>
+  🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
+</p>
+<p>
+  💬 You can always ask me about Neovim and Java.    
+</p>
+<p>
+ ⚡ Fun fact: I started coding when I was 12 and I'm half German half Korean.
+</p>
 <p>
   <img
     align="left"
