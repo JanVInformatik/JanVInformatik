@@ -30,11 +30,3 @@
     alt="AiriCode"
   />
 </p>
-<p>
-  <img]
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AiriCode&theme=dark"                       
-    alt="AiriCode"
-  />
-</p>
-> There isn't such thing as bad weather, just occasionally the wrong clothing.
