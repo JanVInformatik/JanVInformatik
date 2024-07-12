@@ -16,25 +16,6 @@
 🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
 💬 You can always ask me about Neovim and Java.                              
 ⚡ Fun fact: I started coding when I was 12 and I'm half German half Korean.
-<h3 align="left">Tools & Languages:</h3>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"            
-      alt="java"
-      width="80"
-      height="80"
-    />
-  </a>
-<p>
-  <a href="https://github.com/neovim/neovim" target="_blank">
-    <img
-      align="center"
-      src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/nvim-icon.png"                   
-      alt="Neovim"
-      height="80"
-      width="80"
-  </a>
-</p>
 <p>
   <img
     align="left"
