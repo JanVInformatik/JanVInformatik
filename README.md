@@ -43,3 +43,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=airicode&show_icons=true" />
 </picture>
+<p>
+    Hardware, Software, Tools that I use:
+</p>
