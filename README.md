@@ -19,7 +19,7 @@
   🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
 </p>
 <p>
-  💬 You can always ask me about Neovim and Java.    
+  💬 You can always come by and chat with me about Java, Haskell, C and Vim.    
 </p>
 <p>
  ⚡ Fun fact: I started coding when I was 12 and I'm half German half Korean.
