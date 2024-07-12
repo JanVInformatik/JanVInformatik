@@ -10,7 +10,7 @@
       width="400"
   /></a>
 </p>
-<h1 align="center">Hello 👋, I'm Airi V.</h1>
+<h1 align="center">Hi, I'm Airi V.</h1>
 <h3 align="center">A university student.</h3>
 🔭 I'm currently working on my coding basics. 
 🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
