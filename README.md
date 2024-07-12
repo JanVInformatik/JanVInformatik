@@ -47,4 +47,5 @@
     ---------------------------------------------------------------------------------------------------------------------------------
 </p>
 
+<h3 align="center">#Hardware, Software, Tools that I use:</h3>
 #Hardware, Software, Tools that I use:
