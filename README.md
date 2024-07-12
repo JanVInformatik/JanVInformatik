@@ -57,6 +57,7 @@
     Apple's Magic Mouse.
 
 <h3 align="center">Hardware, Software, Tools that I use on Arch Linux:</h3>
+    
     Vim - a lightweight and awesome code editor (CLI).
     Arch Linux with Hyprland as Window Manager (pre-configuration from Hyprdots repo).
     Apple's Mini Keyboard (without Touch ID, EN layout).
