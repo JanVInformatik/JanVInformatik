@@ -4,7 +4,7 @@
     target="blank"
     ><img
       align="center"
-      src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"                           
+      src = "https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop"      
       alt="Coding"
       height="300"
       width="400"
@@ -24,12 +24,6 @@
 <p>
  ⚡ Man muss nur eine Beschaeftigung finden. Dann fuehlt es sich so an, als ob die Zeit schnell vergeht.
 </p>
-<p>
-  <img
-    src = "https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop"
-  />
-</p>
-
 <p>
     ---------------------------------------------------------------------------------------------------------------------------------
 </p>
