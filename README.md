@@ -26,9 +26,7 @@
 </p>
 <p>
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingPandaDev&layout=compact&show_icons=
-    alt="FlyingPandaDev"
+    src="https://www.google.de/url?sa=i&url=https%3A%2F%2Fwww.dailydot.com%2Funclick%2Fpolite-cat-ollie-memes%2F&psig=AOvVaw3J6Q-5ZnOfhewFkr_zRWew&ust=1723072368262000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIi71vW-4YcDFQAAAAAdAAAAABAE"
   />
 </p>
 
