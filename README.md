@@ -31,6 +31,7 @@
 
 <h3 align="center">Hardware, Software, Werkzeuge, die ich in Kombination mit MacOS nutze:</h3>
 
+    NeoVim - prinzipiell Vim mit Lua Support.
     Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
     MacOS Sonoma - Apples OS. (Bald auch Sequoia.)
     MacBook Pro 2018 15" 32GB 512GB I7 8850h 560x (EN layout).
