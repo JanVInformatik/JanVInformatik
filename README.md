@@ -27,8 +27,8 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiriCode&layout=compact&show_icons=
-    alt="AiriCode"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingPandaDev&layout=compact&show_icons=
+    alt="FlyingPandaDev"
   />
 </p>
 
@@ -36,18 +36,18 @@
     ---------------------------------------------------------------------------------------------------------------------------------
 </p>
 
-<h3 align="center">Hardware, Software, Tools that I use on MacOS:</h3>
+<h3 align="center">Hardware, Software, Werkzeuge, die ich in Kombination mit MacOS nutze:</h3>
 
-    Vim - a lightweight and awesome code editor (CLI).
-    MacOS Sonoma - Apple's OS.
+    Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
+    MacOS Sonoma - Apples OS. (Bald auch Sequoia.)
     MacBook Pro 2018 15" 32GB 512GB I7 8850h 560x (EN layout).
     MacBook Pro 2021 16" 32GB 512GB M1 Pro (EN layout).
-    Apple's Mini Keyboard (EN layout).
-    Apple's Magic Mouse.
+    Apples Mini Keyboard (EN layout).
+    Apples Magic Maus.
 
-<h3 align="center">Hardware, Software, Tools that I use on Arch Linux:</h3>
+<h3 align="center">Hardware, Software, Werkzeuge, die ich in Kombination mit Arch Linux nutze:</h3>
     
-    Vim - a lightweight and awesome code editor (CLI).
-    Arch Linux with Hyprland as Window Manager (pre-configuration from Hyprdots repo).
-    Apple's Mini Keyboard (without Touch ID, EN layout).
+    Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
+    Arch Linux mit Hyprland as Window Manager (; die Konfiguration stammt von den sog. Hyprdots).
+    Apples Mini Keyboard (ohne Touch ID, EN layout).
     MacBook Pro 2015 i5 8GB 256GB.
