@@ -13,16 +13,16 @@
 <h1 align="center">Hi, I'm Airi.</h1>
 <h3 align="center">A university student.</h3>
 <p>
-  🔭 I'm currently working on my coding basics. 
+  🔭 Betreiber des YouTube Kanals @FlyingPandaDev. 
 </p>
 <p>
-  🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
+  🌱 Gerade lerne ich Java, C, HTML, Haskell, JavaScript, CSS und Python.
 </p>
 <p>
-  💬 You can always come by and chat with me about Java, Haskell, C and Vim.    
+  💬 Ich bin aber offen fuer jegliche Vorschlaege bezueglich neuer Programmiersprachen.    
 </p>
 <p>
- ⚡ Fun fact: I started coding when I was 12 and I'm half German half Korean.
+ ⚡ Man muss nur eine Beschaeftigung finden. Dann fuehlt es sich so an, als ob die Zeit schnell vergeht.
 </p>
 <p>
   <img
