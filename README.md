@@ -10,8 +10,8 @@
       width="400"
   /></a>
 </p>
-<h1 align="center">Hi, I'm Airi.</h1>
-<h3 align="center">A university student.</h3>
+<h1 align="center">Guten Tag. mein Name ist Jan aka FlyingPandaDev.</h1>
+<h3 align="center">Ein YouTuber, der Programmierung thematisiert.</h3>
 <p>
   🔭 Betreiber des YouTube Kanals @FlyingPandaDev. 
 </p>
