@@ -26,7 +26,7 @@
 </p>
 <p>
   <img
-    src="https://www.google.de/url?sa=i&url=https%3A%2F%2Fwww.dailydot.com%2Funclick%2Fpolite-cat-ollie-memes%2F&psig=AOvVaw3J6Q-5ZnOfhewFkr_zRWew&ust=1723072368262000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIi71vW-4YcDFQAAAAAdAAAAABAE"
+    src = "https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop"
   />
 </p>
 
