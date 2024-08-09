@@ -23,7 +23,7 @@
   💬 Ich bin aber offen fuer jegliche Vorschlaege bezueglich neuer Programmiersprachen.    
 </p>
 <p>
- ⚡ Man muss nur eine Beschaeftigung finden. Dann fuehlt es sich so an, als ob die Zeit schnell vergeht.
+ ⚡ Man muss nur eine Beschaeftigung finden. Dann fuehlt es sich so an, als ob die Zeit schnell vergehen wuerde
 </p>
 <p>
     ---------------------------------------------------------------------------------------------------------------------------------
