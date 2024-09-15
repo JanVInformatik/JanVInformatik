@@ -17,7 +17,7 @@
   🔭 Betreiber des YouTube Kanals @FlyingPandaDev. 
 </p>
 <p>
-  🌱 Gerade lerne ich Java, C, HTML, Haskell, JavaScript, CSS und Python.
+  🌱 Gerade lerne ich Java, C, Objective C, Swift, HTML, Haskell, JavaScript, CSS und Python.
 </p>
 <p>
   💬 Ich bin aber offen fuer jegliche Vorschlaege bezueglich neuer Programmiersprachen.    
