@@ -1,21 +1,4 @@
-<p align="center">
-  <a src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Coding" height="300" width="400"
-    href="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"                            
-    target="blank"
-    >
-    <img
-      align="center"
-      src = "https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop"      
-      height="360"
-      width="720"
-    />
-  </a>
-</p>
-<h1 align="center">Guten Tag. Mein Name ist FlyingPandaDev.</h1>
-<h3 align="center">Ein YouTuber, der Programmierung thematisiert.</h3>
-<p>
-  🔭 Betreiber des YouTube Kanals @FlyingPandaDev. 
-</p>
+<h1 align="center">Guten Tag.</h1>
 <p>
   🌱 Gerade lerne ich Java, C, Objective C, Swift, HTML, Haskell, JavaScript, CSS und Python.
 </p>
@@ -23,7 +6,7 @@
   💬 Ich bin aber offen fuer jegliche Vorschlaege bezueglich neuer Programmiersprachen.    
 </p>
 <p>
- ⚡ Man muss nur eine Beschaeftigung finden. Dann fuehlt es sich so an, als ob die Zeit schnell vergehen wuerde
+ ⚡ Man muss nur eine Beschaeftigung finden. Dann fuehlt es sich so an, als ob die Zeit schnell vergehen wuerde.
 </p>
 <p>
     ---------------------------------------------------------------------------------------------------------------------------------
