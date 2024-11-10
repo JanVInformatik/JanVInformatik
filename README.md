@@ -26,5 +26,7 @@
     
     Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
     Arch Linux mit Hyprland as Window Manager (; die Konfiguration stammt von den sog. Hyprdots).
+    Mint / Ubuntu Linux als LTS: Mit i3 als WM und Vim-Tastenbelegung - bzw. Steuerung. 
+
     Apples Mini Keyboard (ohne Touch ID, EN layout).
     MacBook Pro 2015 i5 8GB 256GB.
