@@ -1,6 +1,6 @@
 <h1 align="center">Guten Tag.</h1>
 <p>
-  🌱 Gerade lerne ich Java, C, Objective C, Swift, HTML, Haskell, JavaScript, CSS und Python.
+  🌱 Gerade lerne ich Java, C, Objective C, Swift, HTML, Haskell, JavaScript (TypeScript), CSS und C++.
 </p>
 <p>
   💬 Ich bin aber offen fuer jegliche Vorschlaege bezueglich neuer Programmiersprachen.    
