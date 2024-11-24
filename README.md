@@ -16,7 +16,7 @@
 
     NeoVim - prinzipiell Vim mit Lua Support.
     Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
-    MacOS Sonoma - Apples OS. (Bald auch Sequoia.)
+    MacOS Sequoia - Apples OS.
     MacBook Pro 2018 15" 32GB 512GB I7 8850h 560x (EN layout).
     MacBook Pro 2021 16" 32GB 512GB M1 Pro (EN layout).
     Apples Mini Keyboard (EN layout).
