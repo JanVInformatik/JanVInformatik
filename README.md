@@ -14,19 +14,21 @@
 
 <h3 align="center">Hardware, Software, Werkzeuge, die ich in Kombination mit MacOS nutze:</h3>
 
-    NeoVim - prinzipiell Vim mit Lua Support.
+    NeoVim - ein Codeeditor spezifiziert fuer die Command Line (CLI) mit Lua Unterstuetzung. 
     Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
     MacOS Sequoia - Apples OS.
-    MacBook Pro 2018 15" 32GB 512GB I7 8850h 560x (EN layout).
     MacBook Pro 2021 16" 32GB 512GB M1 Pro (EN layout).
+    MacBook Pro 2018 15" 32GB 512GB I7 8850h 560x (EN layout).
     Apples Mini Keyboard (EN layout).
-    Apples Magic Maus.
 
 <h3 align="center">Hardware, Software, Werkzeuge, die ich in Kombination mit Arch Linux nutze:</h3>
-    
+
+    NeoVim - ein Codeeditor spezifiziert fuer die Command Line (CLI) mit Lua Unterstuetzung. 
     Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
-    Arch Linux mit Hyprland as Window Manager (; die Konfiguration stammt von den sog. Hyprdots).
-    Mint / Ubuntu Linux als LTS: Mit i3 als WM und Vim-Tastenbelegung - bzw. Steuerung. 
+    Vi - fuer schnelle Bearbeitungen von Systemkonfigurationen (CLI).
+    NixOS - Wechsel augrund von "Nachwuchs" -> mehrere Geraete mit selber Konfiguration ohne zu viel Management Aufwand.
+    Mint / Ubuntu Linux (LTS): Mit i3 als WM und Vim-Tastenbelegung - bzw. Steuerung. 
 
     Apples Mini Keyboard (ohne Touch ID, EN layout).
     MacBook Pro 2015 i5 8GB 256GB.
+    i5 6500 32GB DDR4 Desktop Computer (ohne Grafikkarte; mit iGPU). 
