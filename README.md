@@ -17,7 +17,7 @@
     NeoVim - ein Codeeditor spezifiziert fuer die Command Line (CLI) mit Lua Unterstuetzung. 
     Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
     MacOS Sequoia - Apples OS.
-    MacBook Pro 2021 16" 32GB 512GB M1 Pro (EN layout).
+    Leider kaputt gegangen...MacBook Pro 2021 16" 32GB 512GB M1 Pro (EN layout).
     MacBook Pro 2018 15" 32GB 512GB I7 8850h 560x (EN layout).
     Apples Mini Keyboard (EN layout).
 
@@ -28,7 +28,8 @@
     Vi - fuer schnelle Bearbeitungen von Systemkonfigurationen (CLI).
     NixOS - Wechsel augrund von "Nachwuchs" -> mehrere Geraete mit selber Konfiguration ohne zu viel Management Aufwand.
     Mint / Ubuntu Linux (LTS): Mit i3 als WM und Vim-Tastenbelegung - bzw. Steuerung. 
+    Nun auch GNOME.
 
     Apples Mini Keyboard (ohne Touch ID, EN layout).
-    MacBook Pro 2015 i5 8GB 256GB.
+    Ich werde dich vermissen (mein erstes eigenes MacBook): MacBook Pro 2015 i5 8GB 256GB.
     i5 6500 32GB DDR4 Desktop Computer (ohne Grafikkarte; mit iGPU). 
