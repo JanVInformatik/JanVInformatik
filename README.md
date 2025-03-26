@@ -19,15 +19,3 @@
     MacOS Sequoia - Apples Betriebssystem.
     MacBook Pro 2018 15" 32GB 256GB I7 8750h 555x (EN layout).
     Apples Mini Keyboard (EN layout).
-
-<h3 align="center">Hardware, Software, Werkzeuge, die ich in Kombination mit Arch Linux nutze:</h3>
-
-    NeoVim - ein Codeeditor spezifiziert fuer die Command Line (CLI) mit Lua Unterstuetzung. 
-    Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
-    Vi - fuer schnelle Bearbeitungen von Systemkonfigurationen (CLI).
-    NixOS - Wechsel augrund von "Nachwuchs" -> mehrere Geraete mit selber Konfiguration ohne zu viel Management Aufwand.
-    Mint / Ubuntu Linux (LTS): Mit i3 als WM und Vim-Tastenbelegung - bzw. Steuerung. 
-    Nun auch GNOME.
-
-    Apples Mini Keyboard (ohne Touch ID, EN layout).
-
