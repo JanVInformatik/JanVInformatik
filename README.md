@@ -16,8 +16,7 @@
 
     NeoVim - ein Codeeditor spezifiziert fuer die Command Line (CLI) mit Lua Unterstuetzung. 
     Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
-    MacOS Sequoia - Apples OS.
-    Leider kaputt gegangen...MacBook Pro 2021 16" 32GB 512GB M1 Pro (EN layout).
+    MacOS Sequoia - Apples Betriebssystem.
     MacBook Pro 2018 15" 32GB 512GB I7 8850h 560x (EN layout).
     Apples Mini Keyboard (EN layout).
 
@@ -31,5 +30,4 @@
     Nun auch GNOME.
 
     Apples Mini Keyboard (ohne Touch ID, EN layout).
-    Ich werde dich vermissen (mein erstes eigenes MacBook): MacBook Pro 2015 i5 8GB 256GB.
-    i5 6500 32GB DDR4 Desktop Computer (ohne Grafikkarte; mit iGPU). 
+
