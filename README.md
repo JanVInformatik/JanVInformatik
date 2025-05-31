@@ -15,7 +15,6 @@
 <h3 align="center">Hardware, Software, Werkzeuge, die ich in Kombination mit MacOS nutze:</h3>
 
     NeoVim - ein Codeeditor spezifiziert fuer die Command Line (CLI) mit Lua Unterstuetzung. 
-    Vim - ein Codeeditor spezifiziert fuer die Command Line (CLI).
     MacOS Sequoia - Apples Betriebssystem.
     MacBook Pro 2018 15" 32GB 256GB I7 8750h 555x (EN layout).
     Apples Mini Keyboard (EN layout).
