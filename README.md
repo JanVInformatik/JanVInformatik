@@ -1,4 +1,4 @@
-<h1 align="center">Guten Tag.</h1>
+<h1 align="center">Ueber mich</h1>
 <p>
   💬 Ich bin offen fuer jegliche Vorschlaege bezueglich neuer Programmiersprachen oder (semi-)revolutionaeren Ansaetzen in der Informatik.
 </p>
